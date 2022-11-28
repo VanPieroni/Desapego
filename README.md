@@ -1,5 +1,5 @@
 # Desapego
-Primeiro projeto elaborado para desafio da mentoria CSV. 
+Primeiro projeto elaborado para a mentoria CSV. 
 
 ![Site](https://github.com/VanPieroni/SiteVendaBolsasUsadas/blob/main/Desapego.png)
 
