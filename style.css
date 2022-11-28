@@ -1,0 +1,76 @@
+.caixa{
+	position: relative;
+    text-align: center;
+}
+
+.produtos li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    margin: 0 1.5%;
+    vertical-align: top;
+    box-sizing: border-box;
+    border: 3px solid rgb(46, 141, 127);
+    border-top-width: 30px;
+    border-radius: 15px;
+    padding: 10px 30px;
+    font-family:Arial, Helvetica, sans-serif;
+    cursor: pointer;
+}
+
+.produtos li:hover{
+    border-color: #C78C19;   
+}
+
+.produtos li:active{
+    border-color: #C78C19;
+}
+
+.produtos h1{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.produtos h3{
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.figure-emily{
+    width: 345px;
+    height: 352px;
+}
+
+.figure-rhea{
+    width: 345px;
+    height: 352px;
+}
+
+.figure-lillie{
+    width: 340px;
+    height: 322px;
+}
+
+.produto-descricao{
+    font-size: 20px;
+    padding-top: 1em;
+}
+
+.produto-medidas{
+    font-style: italic;
+}
+
+.produto-preco{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+footer{
+    text-align: center;
+    padding: 40px 0;
+    font-size: 14px;
+}
+
+.rodape{
+    margin-top: 0%; 
+}
