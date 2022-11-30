@@ -1,5 +1,5 @@
 .caixa{
-	  position: relative;
+    position: relative;
     text-align: center;
 }
 
@@ -75,7 +75,7 @@ footer{
     margin-top: 0%; 
 }
 
-@media screen and (min-width: 200px) and (max-width: 640px){
+@media screen and (min-width: 200px) and (max-width: 850px){
 
     *{
         margin: 0;
